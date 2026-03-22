@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deduplicate Skill Roots"
+  short_description: "Consolidate duplicate skill roots"
+  default_prompt: "Use $dedupe-skill-roots to consolidate duplicate skill roots, preserve one canonical source, and verify VS Code stops rescanning them."
